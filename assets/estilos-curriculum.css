@@ -1,0 +1,64 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  background-image: url("../img/bg-hero-curriculum.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Hero-Section p,h1{
+  text-shadow: 4px 4px 4px black;
+  color: #ffffff;
+}
+
+#Hero-Section p{
+  font-size: 22px;
+}
+
+.icon1{
+  color: #0000ff;
+}
+
+.icon2{
+  color: #ff0000;
+}
+
+.icon3{
+  color: #008000;
+}
+
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 800;
+  color: #011796bb;
+}
+
+#Contacto{
+  color: #03115fbb;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+
+}

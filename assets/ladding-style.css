@@ -1,0 +1,80 @@
+body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande','Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-image: url("../imgs/fondo-ladding.jpg");
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+
+.header{
+        height: 300px;
+        padding: 10px;
+        font-size: 2em;
+        background-image: url("../imgs/interrogacion.jfif");
+        background-size: cover;
+        background-position: center;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+}
+
+.header p{
+
+        background-color: black;
+        width: 650px;
+}
+
+.products img{
+         height: 200px;
+}
+
+h1{
+         margin: 0px;
+         background-color: black;
+         width: 520px;
+}
+
+.products {
+        width: 30%;
+        margin: auto;
+        font-weight: 700;
+        color: white;
+}
+
+.products td{
+         width: 50%;
+         padding: 50px;
+}
+
+.products img{
+         width: 100%;
+         border: solid 1px #ddd;
+ }
+
+.footer{ 
+        background-color: rgb(100, 23, 23);
+        line-height: 50px; 
+        color: white;
+        text-align: center;
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-bottom: -30px;
+ }
+
+ .footer p{
+        margin-left: 200px;
+        margin-right: 200px;
+ }
+
+.heroe {
+        padding-left: 200px;
+        padding-right: 200px; 
+}
+
+.footer img{
+        height: 100px;
+}
+
+.contenido{
+        background-color: black;
+}

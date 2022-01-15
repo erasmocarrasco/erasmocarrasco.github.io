@@ -1,0 +1,108 @@
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.logo{
+    width: 120px;
+}
+
+.texticon{
+    color: #707070;
+}
+
+.texticon p{
+margin-bottom: 5px;
+padding-top: 10px;
+font-weight: 300;
+}
+
+.texticon1{
+    font-size: 16px;
+}
+
+.texticon2{
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.iconlocation{
+     margin-right: 5px;
+}
+
+.card1{
+    padding: 40px;
+}
+
+.card-title{
+    font-weight: 500;  /* use el Medium en vez del light que decia la maqueta, visualmente el peso es de 500 pero la maqueta dice 300, debe haber un error en ello*/
+    font-size: 20PX;
+}
+
+
+form{
+    text-align: center;
+    background-color: #28a745ee;
+    padding: 20px;
+}
+
+form h2{
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.card1 h2{
+    color: #fff;
+}
+
+footer{
+    text-align: center;
+    color: #707070;
+    font-weight: 300;   
+    font-size: 16px;
+}
+
+.boton{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 30px;
+    background-color:#F8F9FA;
+    color:#212529;
+    padding-left: 30px;
+    font-weight: 500;   /* use el Medium en vez del light que decia la maqueta, visualmente el peso es de 500 pero la maqueta dice 300, debe haber un error en ello*/
+    border-radius:9%;
+    font-size: 16px;
+    border-color: #F8F9FA;
+}
+
+.icon{
+    color: red;
+}
+
+.cardmin{
+    text-align: right;
+}
+
+.card-img-top{
+    height: 300px;
+}
+
+.cardmin p{
+    display: flow-root;
+    display: inline-flex;
+    margin: 5px;
+}
+
+.precio1{
+
+    color: #707070;
+     font-weight: 300;
+     font-size: 19px;
+}
+
+.precio2{
+    color: #28a745; 
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom:-50px;
+}

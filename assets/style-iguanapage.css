@@ -1,0 +1,101 @@
+body{
+    color: #ffffff;
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header1{
+    background-color: #000000;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.header1 h1{
+    margin-bottom: -1px; 
+    font-size: 50px;  
+    font-weight: 500;
+    padding: 10px;
+}
+
+.header2{
+    width: 100%;
+    margin-bottom: -10px;
+   
+}
+.desc-section {
+    background-color: #000000;
+    padding: 80px;
+    padding-right:200px ;
+    padding-left: 400px;
+  }
+  
+  .text {
+    width: 37%;
+    float: left;
+    padding: 20px 55px;
+    font-size: 16px;
+  }
+  
+  .text p {
+    padding: 10px;
+    font-weight: 300;
+  }
+  
+  .photo img {
+    width: 399px;
+    height: 237px;
+  }
+  
+  h2{
+      text-align: center;
+      font-size: 40px;
+      font-weight: 500;
+  }
+
+  .icons-section{
+      background-color: #1e1a13;
+      margin-top: -20px;
+      padding: 50px;
+      text-align: center;
+  }
+
+  .ss1{
+    display: inline-block;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .icon{
+    font-size: 110px;
+    font-weight: 500;
+  }
+ 
+  .ss2master{
+      padding-top: 60px;
+      padding-bottom: 60px;
+      background-color: #000000;
+      text-align: center;      
+  }
+  
+  .ss2{
+    display: inline-block;
+  }
+
+  .ss2 img {
+      height: 330px;
+  }
+
+  .footer{ 
+    text-align: center;
+    padding: 30px;
+    background-color: #1e1a13;
+    font-size: 20px;
+    font-weight: 500;
+  }
