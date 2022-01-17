@@ -88,3 +88,10 @@ padding-right: 10px;
   margin-bottom: -1px;
   
 }
+
+/* Se agrega animacion en botones de seccion Proyectos */
+.animation:hover {
+  outline: 4px rgb(0, 89, 255) solid;
+  opacity: .7;
+  transition: .2s;
+}
